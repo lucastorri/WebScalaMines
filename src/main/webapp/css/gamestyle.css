@@ -1,0 +1,7 @@
+.line {
+    height: 31px;float: left;clear: left;
+}
+
+.square {
+    width: 30px;height: 30px;border: solid 1px black;display: inline-block;float: left;text-align: center;line-height: 30px;
+}
