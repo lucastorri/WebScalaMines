@@ -5,13 +5,6 @@ import scala.math.abs
 import java.util.LinkedList
 import com.twitter.json.Json
 
-/**
- * Created by IntelliJ IDEA.
- * User: lucastorri
- * Date: 1/21/11
- * Time: 11:11 AM
- * To change this template use File | Settings | File Templates.
- */
 
 class MinesGameException extends Exception
 class BombExplodedException extends MinesGameException
